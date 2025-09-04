@@ -32,7 +32,7 @@ qr-code-generator/ ├── index.html ├── style.css ├── script.js
 ## 🧪 How to Run Locally
 
 1. Clone the repository  
-   `git clone https://github.com/your-username/qr-code-generator.git`
+   `git clone https://github.com/antima789779/QR-Generator2.git`
 
 2. Open `index.html` in your browser  
    Or serve it using a local development server.
